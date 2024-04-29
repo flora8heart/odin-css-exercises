@@ -1,0 +1,16 @@
+/* p element that is the descendent of div with container class*/
+/* 
+.container p {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+} */
+
+/* p element that is the descendent of div - same outcome*/
+div p {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
